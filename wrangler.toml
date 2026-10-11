@@ -1,0 +1,6 @@
+name = "tg-proxy-bot1"
+main = "index.js"
+compatibility_date = "2024-01-01"
+
+[vars]
+BOT_TOKEN = "8908882232:AAEDds1b4yRRWBxECUvIUCsgbnEW307o9WE"
